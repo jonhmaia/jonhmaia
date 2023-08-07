@@ -1,12 +1,10 @@
-<img src="https://cdn.discordapp.com/attachments/1053792279275507715/1053792904608481280/PB_Business_Card.png">
 
-##
 
-## :space_invader: Olá, eu sou Mateus Kalleb Cintra
+## :space_invader: Olá, eu sou João Marcos Araujo Maia
 
 - 🔭 Cursando 4° período de Ciência da Computação (UFG)
-- 🌱 Estudando diversas matérias e aprendendo Swift, Java e Flutter
-- 📫 Contato pelo email: cassintra1080@gmail.com
+- 🌱 Estudando diversas matérias e aprendendo front-end, Java e Python
+- 📫 Contato pelo email: joaomarcosaraujomaia14@gmail.com
 
 Iniciante no mundo da Programação!
 
