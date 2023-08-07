@@ -27,5 +27,13 @@
   <a href="https://instagram.com/joaomarcosmaia14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaomarcosaraujomaia14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/kallebcintra/kallebcintra/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jonhmaia/jonhmaia/blob/output/github-contribution-grid-snake.svg)
 </div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+   
+Place this in your body 
+
+<i class="devicon-css3-plain"></i>
+*To change the size, change the <i>'s `font-size`.
+
+
