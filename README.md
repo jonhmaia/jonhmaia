@@ -1,7 +1,7 @@
 
 ##
 
-## :space_invader: Olá, eu sou Mateus João Marcos Araújo Maia
+## :space_invader: Olá, eu souJoão Marcos Araújo Maia
 
 - 🔭 Cursando 4° período de Ciência da Computação (UFG)
 - 🌱 Estudando diversas matérias e aprendendo Python, Java e Front-end
@@ -29,7 +29,7 @@
   
   ![Snake animation](https://github.com/jonhmaia/jonhmaia/blob/output/github-contribution-grid-snake.svg)
 </div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
    
 Place this in your body 
 
