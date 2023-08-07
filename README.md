@@ -31,9 +31,6 @@
 </div>
 
    
-Place this in your body 
 
-<i class="devicon-css3-plain"></i>
-*To change the size, change the <i>'s `font-size`.
 
 
