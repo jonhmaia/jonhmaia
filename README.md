@@ -1,7 +1,7 @@
 
 ##
 
-## :space_invader: Olá, eu souJoão Marcos Araújo Maia
+## :space_invader: Olá, eu sou João Marcos Araújo Maia
 
 - 🔭 Cursando 4° período de Ciência da Computação (UFG)
 - 🌱 Estudando diversas matérias e aprendendo Python, Java e Front-end
