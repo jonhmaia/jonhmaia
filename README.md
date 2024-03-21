@@ -3,7 +3,7 @@
 
 ## :space_invader: Olá, eu sou João Marcos Araújo Maia
 
-- 🔭 Cursando 4° período de Ciência da Computação (UFG)
+- 🔭 Cursando 6° período de Ciência da Computação (UFG)
 - 🌱 Estudando diversas matérias e aprendendo Python, Java e Front-end
 - 📫 Contato pelo email: joaomarcosaraujomaia14@gmail.com
 
@@ -27,12 +27,7 @@
 
 ##
 
-<div> 
-  <a href="https://instagram.com/joaomarcosmaia14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaomarcosaraujomaia14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- ![Snake animation](https://github.com/jonhmaia/jonhmaia/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
    
 
