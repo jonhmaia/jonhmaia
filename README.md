@@ -4,7 +4,7 @@
 ## :space_invader: Olá, eu sou João Marcos Araújo Maia
 
 - 🔭 Cursando 6° período de Ciência da Computação (UFG)
-- 🌱 Estudando diversas matérias e aprendendo Python, Java e Front-end
+- 🌱 Dedicando meu tempo de estudo para IA e Redes
 - 📫 Contato pelo email: joaomarcosaraujomaia14@gmail.com
 
 
