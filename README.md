@@ -3,8 +3,8 @@
 
 ## :space_invader: Olá, eu sou João Marcos Araújo Maia
 
-- 🔭 Cursando 6° período de Ciência da Computação (UFG)
-- 🌱 Dedicando meu tempo de estudo para IA e Redes
+- 🔭 Cursando &° período de Ciência da Computação (UFG)
+- 🌱 Desenvolvedor na empresa FlexOn e freelancer
 - 📫 Contato pelo email: joaomarcosaraujomaia14@gmail.com
 
 
