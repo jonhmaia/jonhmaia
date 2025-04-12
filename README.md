@@ -22,6 +22,7 @@
  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/django.svg">
 
 </div>
 
