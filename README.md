@@ -3,8 +3,8 @@
 
 ## :space_invader: Olá, eu sou João Marcos Araújo Maia
 
-- 🔭 Cursando &° período de Ciência da Computação (UFG)
-- 🌱 Desenvolvedor na empresa FlexOn e freelancer
+- 🔭 Cursando 8° período de Ciência da Computação (UFG)
+- 🌱 Coordenador de tecnologia na empresa Flex ON
 - 📫 Contato pelo email: joaomarcosaraujomaia14@gmail.com
 
 
