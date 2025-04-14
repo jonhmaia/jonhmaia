@@ -2,7 +2,7 @@
 
 [![Visitors](https://komarev.com/ghpvc/?username=jonhmaia&color=brightgreen)](https://github.com/jonhmaia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/joao-marcos-maia/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jonhmaia?style=social)](https://twitter.com/jonhmaia)
+
 
 ---
 
